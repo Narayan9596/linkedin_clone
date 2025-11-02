@@ -1,0 +1,23 @@
+.feed-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.feed-loading {
+  text-align: center;
+  padding: 3rem;
+  color: #666;
+}
+
+.no-posts {
+  text-align: center;
+  padding: 3rem;
+  background: white;
+  border-radius: 8px;
+  color: #666;
+}
+
+.posts-list {
+  width: 100%;
+}
